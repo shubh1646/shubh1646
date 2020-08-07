@@ -25,4 +25,4 @@
 <img src="https://github.com/shubh1646/shubh1646/blob/master/assets/sql.png" height="60" />&nbsp;&nbsp;
 
 
-<img align="left" alt="Shubham Sharma Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubh1646&show_icons=true&hide_border=true" />
+![Shubham Github Stats](https://github-readme-stats.vercel.app/api?username=shubh1646&count_private=true)
