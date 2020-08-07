@@ -1,5 +1,6 @@
 ### Hi there! I am Shubham 👋
-I am a CSYE Master student at Northeastern University. I love attending hackathons and working on interesting challenges. 
+<br/>
+## I am a CSYE Master student at Northeastern University. I love attending hackathons and working on interesting challenges. 
 
 
 - 🔬 I’m currently working on designing and building cloud native applications for Kubernetes
@@ -8,3 +9,7 @@ I am a CSYE Master student at Northeastern University. I love attending hackatho
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shub1646/)
 - 😄 Pronouns: He/His/Him
 
+
+<br />
+
+### Languages and Tools:
