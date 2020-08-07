@@ -12,12 +12,17 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 <img src="https://github.com/shubh1646/shubh1646/blob/master/assets/java.png" height="80" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/shubh1646/shubh1646/blob/master/assets/python.png" height="70" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/shubh1646/shubh1646/blob/master/assets/javascript.jpg" height="70" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/shubh1646/shubh1646/blob/master/assets/swift.png" height="70" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/shubh1646/shubh1646/blob/master/assets/docker.png" height="70" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/shubh1646/shubh1646/blob/master/assets/kubenetes.png" height="70" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shubh1646/shubh1646/blob/master/assets/python.png" height="55" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shubh1646/shubh1646/blob/master/assets/javascript.jpg" height="60" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shubh1646/shubh1646/blob/master/assets/react.png" height="60" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shubh1646/shubh1646/blob/master/assets/spring.jpg" height="60" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shubh1646/shubh1646/blob/master/assets/swift.png" height="55" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shubh1646/shubh1646/blob/master/assets/docker.png" height="55" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shubh1646/shubh1646/blob/master/assets/kubenetes.png" height="60" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shubh1646/shubh1646/blob/master/assets/aws.png" height="55" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/shubh1646/shubh1646/blob/master/assets/sql.png" height="60" />&nbsp;&nbsp;
+
 
 <img align="left" alt="Shubham Sharma Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubh1646&show_icons=true&hide_border=true" />
