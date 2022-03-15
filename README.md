@@ -1,6 +1,6 @@
 ### Hi there! I am Shubham 👋
 
-#### I am a CSYE Master student at Northeastern University. I actively volunteer at technical conference and Hacathons. I am Passionate about little things and curious about everything.
+#### I am working as SWE @ Intuit. I did CSYE Master student at Northeastern University. I actively volunteer at technical conference and Hacathons. I am Passionate about little things and curious about everything.
 
 
 - 🔬 I’m currently working on designing and building cloud native applications for Kubernetes
